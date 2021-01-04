@@ -1,13 +1,13 @@
 {
   "name": "bridgetown-avatar",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "frontend/javascript/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/username/bridgetown-avatar.git"
   },
-  "author": "Bridgetown Maintainers <maintainers@bridgetownrb.com>",
-  "homepage": "https://www.bridgetownrb.com",
+  "author": "Julian Rubisch",
+  "homepage": "https://github.com/julianrubisch/bridgetown-avatar",
   "license": "MIT",
   "private": false,
   "files": [
